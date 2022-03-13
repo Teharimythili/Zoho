@@ -1,4 +1,3 @@
-# Zoho
 <html>
     <head>
         <title>ZOHO Sign In</title>
@@ -32,8 +31,7 @@
             <button type="button" class="signinbtn">Sign In</button>
         </center>
     </body>
-</html>
- <html>
+
     <head>
         <title>ZOHO Sign Up</title>
         <style>
@@ -69,5 +67,65 @@
         
         </center>
     </body>
+
+    <head>
+        <title>ZOHO Contacts</title>
+        <style>
+            button{
+                background-color:dodgerblue;
+                width: 5px;
+                color:white;
+                padding: 15px;
+                margin: 10px 0px;
+                cursor:pointer;
+            }
+            .savebtn{
+                width:auto;
+            padding:10px 18px;
+            margin:10px 5px;
+            }
+        </style>
+    </head>
+    <body>
+        <center>
+            <h2>Contact Form and Contact List Page</h2>
+            <h>Add Contacts</h>
+            <p>Name  :  <input type="text" size="30"></p>
+            <p>Ph No : <input type="text" size="30"></p>
+            <p>Email : <input type="text" size="30"></p>
+         <button type="button" class="savebtn">Save</button>
+        </center>
+    </body>
 </html>
+<div class="Zoho">
+  <center> 
+
+  <h>My Contacts</h>
+
+<style>
+         table, th, td {
+            border: 1px solid black;
+         }
+      </style>
+  <table class="contacts">
+    <tr>
+      <th> Name</th>
+      <th>Phone No</th>
+      <th>Email </th>
+    </tr>
+      <tr>
+      <td>virat</td>
+      <td>787899976</td>
+      <td>virat12@gmail.com</td>
+     </tr>
+
+    <tr>
+
+      <td>Dhoni</td>
+      <td>987542487</td>
+      <td>dhoni34@gmail.com</td>
+  </tr>
+    
+  </table>
+</div>
 
