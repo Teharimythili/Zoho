@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>ZOHO Sign In</title>
+        <title>ZOHO CONTACT MANAGER APP</title>
         <style>
             button{
                 background-color:dodgerblue;
